@@ -10,7 +10,7 @@
 2.1. Passive Reconnaissance  
    2.1.1. Techniques  
    2.1.2. Reconnaissance and OSINT Frameworks  
-   - Includes tools such as Maltego, Recon-ng, FOCA  
+   Includes tools such as Maltego, Recon-ng, FOCA  
 2.2. Active Reconnaissance  
    2.2.1. Network Scanning, Port Scanning, Service Enumeration  
    2.2.2. Active Reconnaissance Tools  
