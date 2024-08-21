@@ -1,5 +1,7 @@
 # Red Team Course (Draft)
 
+## Level: Intermediate
+
 ## Chapter 1: Introduction to Red Teaming
 1.1. Overview of Red Team Operations  
    1.1.1. Definition and Objectives of Red Teaming  
