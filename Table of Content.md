@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > Table of Content (Draft)
-> Level: Intermediate
+> / Level: Intermediate
 
 ## Chapter 1: Introduction to Red Teaming
 1.1. Overview of Red Team Operations  
