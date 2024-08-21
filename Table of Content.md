@@ -1,4 +1,6 @@
-# Red Team Course (Draft)
+# Red Team Course
+
+## Table of Content (Draft)
 
 ## Level: Intermediate
 
