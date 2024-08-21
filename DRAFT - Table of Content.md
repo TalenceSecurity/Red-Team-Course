@@ -1,8 +1,8 @@
-### Talence Red Team Course
+# Talence Red Team Course
 
-### Draft
+# Draft
 
-### Chapter 1: Introduction to Red Teaming
+## Chapter 1: Introduction to Red Teaming
 1.1. Overview of Red Team Operations  
    1.1.1. Definition and Objectives of Red Teaming  
    1.1.2. Differences between Red Teaming and Penetration Testing  
@@ -10,7 +10,7 @@
    1.2.1. Overview of Tools  
    1.2.2. Setting Up a Red Teaming Lab Environment  
 
-### Chapter 2: Reconnaissance and OSINT
+## Chapter 2: Reconnaissance and OSINT
 2.1. Passive Reconnaissance  
    2.1.1. Techniques  
    2.1.2. Reconnaissance and OSINT Frameworks  
@@ -23,7 +23,7 @@
    2.3.1. Gathering Information from Human Targets  
    2.3.2. Social Engineering Tools and Techniques  
 
-### Chapter 3: Initial Access Techniques
+## Chapter 3: Initial Access Techniques
 3.1. Phishing Campaigns  
    3.1.1. Crafting Effective Phishing Emails  
    3.1.2. Phishing Frameworks  
@@ -47,7 +47,7 @@
    3.5.1. Domain Fronting  
    3.5.2. Tunneling Techniques  
 
-### Chapter 4: Code Exection
+## Chapter 4: Code Exection
 4.1. Bypassing Application Whitelisting  
 4.2  In-Memory PowerShell   
 4.3. Living off the Land Binaries (LOLBins)  
@@ -66,7 +66,7 @@
    4.6.8. Process Hollowing  
    4.6.9. Direct Syscalls  
    
-### Chapter 5: Persistence Techniques
+## Chapter 5: Persistence Techniques
 5.1. Persistence via Scheduled Tasks  
    5.1.1. Creating and Managing Scheduled Tasks  
    5.1.2. Task Obfuscation Techniques  
@@ -81,7 +81,7 @@
    5.5.1. Rootkits and Bootkits  
    5.5.2. Hidden and Staggered Payloads for Delayed Execution  
 
-### Chapter 6: Privilege Escalation
+## Chapter 6: Privilege Escalation
 6.1. Local Privilege Escalation on Windows  
    6.1.1. UAC Bypass Techniques  
    6.1.2. Token Impersonation  
@@ -94,7 +94,7 @@
    6.3.1. File and Directory Permissions  
    6.3.2. Service Misconfigurations  
 
-### Chapter 7: Defense Evasion
+## Chapter 7: Defense Evasion
 7.1. Obfuscation Techniques  
    7.1.1. Script and Binary Obfuscation  
    7.2.1. PowerShell Obfuscation  
@@ -110,7 +110,7 @@
    7.4.2. Living off the Land Binaries (LOLBins)  
    7.4.3. Using Fake Certificates to Sign Executables  
 
-### Chapter 8: Credential Access
+## Chapter 8: Credential Access
 8.1. Credential Dumping  
    8.1.1. Windows Credential Dumping  
    Includes tools such as Mimikatz, Rubeus, SharpHound  
@@ -126,7 +126,7 @@
    8.3.1. Credential Harvesting from Web Browsers  
    8.3.2. Keylogging Techniques  
 
-### Chapter 9: Pivoting and Lateral Movement
+## Chapter 9: Pivoting and Lateral Movement
 9.1. RDP, SMB, and WMI Exploitation  
    9.1.1. Using RDP for Lateral Movement  
    9.1.2. PsExec for Remote Command Execution  
@@ -138,7 +138,7 @@
    9.3.1. PowerShell Remoting and WinRM  
    9.3.2. Custom Scripting for Lateral Movement  
 
-### Chapter 10: Domain Escalation
+## Chapter 10: Domain Escalation
 10.1. AD Enumeration and Exploitation  
    10.1.1. ACLs in Active Directory  
    10.1.2. Locating and Enumerating Domain Admin Accounts  
@@ -152,7 +152,7 @@
 10.5. Cross-Forest and Cross-Domain Escalation  
    10.5.1. Attacking Multiple Domains and Forests  
 
-### Chapter 11: Command and Control (C2)
+## Chapter 11: Command and Control (C2)
 11.1. Setting Up C2 Infrastructure  
    11.1.1. Overview of C2 Tools  
    Examples: Cobalt Strike, Empire, Covenant  
@@ -170,7 +170,7 @@
 11.5. Case Study: Real-World C2 Operations  
    11.5.1. Analysis of High-Profile C2 Scenarios  
 
-### Chapter 12: Data Exfiltration
+## Chapter 12: Data Exfiltration
 12.1. Data Exfiltration Over Common Protocols  
    12.1.1. HTTP, HTTPS, and DNS Tunneling Techniques  
    12.1.2. Leveraging Cloud Services for Exfiltration  
@@ -178,7 +178,7 @@
    12.2.1. Exfiltrating Data Over Non-Traditional Channels  
    12.2.2. Encryption and Steganography for Data Exfiltration  
 
-### Chapter 13: Post-Exploitation and Reporting
+## Chapter 13: Post-Exploitation and Reporting
 13.1. Maintaining Access  
    13.1.1. Techniques for Long-Term Persistence  
    13.1.2. Cleanup and Avoiding Detection  
@@ -190,4 +190,4 @@
    13.3.2. Collaborating with Blue Teams
    13.3.2. Continuous Improvement 
 
-### Conclusions
+## Conclusions
