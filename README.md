@@ -1,1 +1,0 @@
-# Talence-Red-Team-Course
