@@ -1,6 +1,4 @@
-# Talence Red Team Course
-
-# Draft
+# Talence Red Team Course (Draft)
 
 ## Chapter 1: Introduction to Red Teaming
 1.1. Overview of Red Team Operations  
